@@ -1,0 +1,14 @@
+{
+  "source": "NASA/JPL SBDB (Small-Body DataBase) Query API",
+  "api_version": "1.0",
+  "url": "https://ssd-api.jpl.nasa.gov/sbdb_query.api",
+  "params": {
+    "fields": "spkid,full_name,pdes,name,neo,pha,H,diameter,albedo,e,a,q,i,om,w,ma,ad,n,per_y,moid,moid_ld,moid_jup,t_jup,class,epoch_cal,condition_code,data_arc,n_obs_used,first_obs,last_obs,rms",
+    "sb-kind": "a",
+    "sb-group": "neo",
+    "full-prec": "true"
+  },
+  "rows": 43090,
+  "count_reported_by_api": 43090,
+  "retrieved_utc": "2026-11-14 19:27:07 UTC"
+}
